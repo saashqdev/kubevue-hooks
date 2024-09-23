@@ -1,0 +1,24 @@
+{
+  "name": "kubevue-hooks",
+  "description": "Git hooks for developing kubevue repositories",
+  "version": "0.3.0",
+  "author": "Rainfore <rainforest92@126.com>",
+  "bugs": {
+    "url": "http://github.com/saashqdev/kubevue-hooks/issues"
+  },
+  "repository": "kubevue/kubevue-hooks",
+  "license": "MIT",
+  "keywords": [
+    "kubevue",
+    "git",
+    "hooks"
+  ],
+  "tags": [
+    "kubevue",
+    "git",
+    "hooks"
+  ],
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  }
+}
