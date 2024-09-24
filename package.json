@@ -2,11 +2,11 @@
   "name": "kubevue-hooks",
   "description": "Git hooks for developing kubevue repositories",
   "version": "0.3.0",
-  "author": "Rainfore <rainforest92@126.com>",
+  "author": "Kubeworkz <Kubeworkz@gmail.com>",
   "bugs": {
     "url": "http://github.com/saashqdev/kubevue-hooks/issues"
   },
-  "repository": "kubevue/kubevue-hooks",
+  "repository": "saashqdev/kubevue-hooks",
   "license": "MIT",
   "keywords": [
     "kubevue",

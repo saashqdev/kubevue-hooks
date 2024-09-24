@@ -1,4 +1,4 @@
-# kubevue Hooks
+# Kubevue Hooks
 
 Lint files before committing.
 
